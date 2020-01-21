@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="05991744b1e429cd6473c62d0c59e0e3">
+    </head>
+    <body>
+        <div class="toggle"></div>
+        <hr>
+        <h1>0</h1>
+        <button id="increase">+1</button>
+        <button id="decrease">-1</button>
+        <script src="06e83cdb95d210afe2dc8394e37362db"></script>
+    </body>
+</html>
